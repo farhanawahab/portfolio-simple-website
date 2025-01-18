@@ -1,4 +1,4 @@
-Simple Portfolio Website
+## Simple Portfolio Website
 
 This is a basic two-page portfolio website built using HTML and CSS. It consists of a **Home** page and a **Contact** page, designed to showcase a personal or professional portfolio in a clean and simple layout.
 
